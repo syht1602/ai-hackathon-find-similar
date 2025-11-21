@@ -8,13 +8,14 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
   <meta name="apple-mobile-web-app-title" content="Find Similar Cars">
-  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+  <!-- <link rel="apple-touch-icon" href="icons/Icon-192.png"> -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>AI Hackathon - Find Similar Cars</title>
   <link rel="manifest" href="manifest.json">
 </head>
 <body>
   <script>
+    var serviceWorkerVersion = null;
     window.addEventListener('load', function(ev) {
       _flutter.loader.loadEntrypoint({
         serviceWorker: {

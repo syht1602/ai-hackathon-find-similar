@@ -1,0 +1,11 @@
+{
+    "name": "AI Hackathon Find Similar Cars",
+    "short_name": "FindSimilarCars",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "A demo project for AI workflow in finding similar cars",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false
+}

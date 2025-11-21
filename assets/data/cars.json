@@ -1,0 +1,462 @@
+[
+  {
+    "id": "car_001",
+    "title": "2020 Toyota Camry",
+    "badge": "Old",
+    "price": 14900,
+    "currency": "USD",
+    "marketShare": 2.8,
+    "photos": [
+      "https://picsum.photos/seed/car001_1/800/600",
+      "https://picsum.photos/seed/car001_2/800/600",
+      "https://picsum.photos/seed/car001_3/800/600"
+    ],
+    "tags": ["1 Owner", "No accidents", "Higher trim"],
+    "details": {
+      "mileage": 48000,
+      "mpgCity": 28,
+      "fuel": "gasoline",
+      "owners": 1,
+      "accidents": 0,
+      "trim": "XLE",
+      "notes": "Cheaper but slightly higher mileage."
+    }
+  },
+  {
+    "id": "car_002",
+    "title": "2021 Honda CR-V",
+    "badge": "New",
+    "price": 21500,
+    "currency": "USD",
+    "marketShare": 2.1,
+    "photos": [
+      "https://picsum.photos/seed/car002_1/800/600",
+      "https://picsum.photos/seed/car002_2/800/600",
+      "https://picsum.photos/seed/car002_3/800/600"
+    ],
+    "tags": ["2 Owners", "No Accidents"],
+    "details": {
+      "mileage": 30000,
+      "mpgCity": 25,
+      "fuel": "gasoline",
+      "owners": 2,
+      "accidents": 0,
+      "trim": "EX",
+      "notes": "Well maintained, preferred in urban areas."
+    }
+  },
+  {
+    "id": "car_003",
+    "title": "2019 Ford Focus",
+    "badge": "Old",
+    "price": 8900,
+    "currency": "USD",
+    "marketShare": 1.2,
+    "photos": [
+      "https://picsum.photos/seed/car003_1/800/600",
+      "https://picsum.photos/seed/car003_2/800/600",
+      "https://picsum.photos/seed/car003_3/800/600"
+    ],
+    "tags": ["3 Owners", "Minor dents"],
+    "details": {
+      "mileage": 90000,
+      "mpgCity": 30,
+      "fuel": "gasoline",
+      "owners": 3,
+      "accidents": 1,
+      "trim": "SE",
+      "notes": "Affordable commuter car."
+    }
+  },
+  {
+    "id": "car_004",
+    "title": "2022 Tesla Model 3",
+    "badge": "New",
+    "price": 32900,
+    "currency": "USD",
+    "marketShare": 3.4,
+    "photos": [
+      "https://picsum.photos/seed/car004_1/800/600",
+      "https://picsum.photos/seed/car004_2/800/600",
+      "https://picsum.photos/seed/car004_3/800/600"
+    ],
+    "tags": ["Single owner", "EV", "No accidents"],
+    "details": {
+      "mileage": 15000,
+      "mpgCity": null,
+      "fuel": "electric",
+      "owners": 1,
+      "accidents": 0,
+      "trim": "Long Range",
+      "notes": "Electric vehicle — low running costs."
+    }
+  },
+  {
+    "id": "car_005",
+    "title": "2018 BMW 3 Series",
+    "badge": "Old",
+    "price": 17900,
+    "currency": "USD",
+    "marketShare": 1.7,
+    "photos": [
+      "https://picsum.photos/seed/car005_1/800/600",
+      "https://picsum.photos/seed/car005_2/800/600",
+      "https://picsum.photos/seed/car005_3/800/600"
+    ],
+    "tags": ["2 Owners", "No Accidents", "Sport package"],
+    "details": {
+      "mileage": 60000,
+      "mpgCity": 22,
+      "fuel": "gasoline",
+      "owners": 2,
+      "accidents": 0,
+      "trim": "330i",
+      "notes": "Higher trim with sport features."
+    }
+  },
+  {
+    "id": "car_006",
+    "title": "2017 Hyundai Sonata",
+    "badge": "Old",
+    "price": 9200,
+    "currency": "USD",
+    "marketShare": 0.9,
+    "photos": [
+      "https://picsum.photos/seed/car006_1/800/600",
+      "https://picsum.photos/seed/car006_2/800/600",
+      "https://picsum.photos/seed/car006_3/800/600"
+    ],
+    "tags": ["1 Owner", "No Accidents"],
+    "details": {
+      "mileage": 52000,
+      "mpgCity": 26,
+      "fuel": "gasoline",
+      "owners": 1,
+      "accidents": 0,
+      "trim": "SEL",
+      "notes": "Reliable and economical."
+    }
+  },
+  {
+    "id": "car_007",
+    "title": "2020 Subaru Outback",
+    "badge": "New",
+    "price": 21900,
+    "currency": "USD",
+    "marketShare": 1.9,
+    "photos": [
+      "https://picsum.photos/seed/car007_1/800/600",
+      "https://picsum.photos/seed/car007_2/800/600",
+      "https://picsum.photos/seed/car007_3/800/600"
+    ],
+    "tags": ["1 Owner", "No Accidents", "AWD"],
+    "details": {
+      "mileage": 27000,
+      "mpgCity": 24,
+      "fuel": "gasoline",
+      "owners": 1,
+      "accidents": 0,
+      "trim": "Limited",
+      "notes": "Good resale strength."
+    }
+  },
+  {
+    "id": "car_008",
+    "title": "2016 Chevrolet Malibu",
+    "badge": "Old",
+    "price": 6900,
+    "currency": "USD",
+    "marketShare": 0.7,
+    "photos": [
+      "https://picsum.photos/seed/car008_1/800/600",
+      "https://picsum.photos/seed/car008_2/800/600",
+      "https://picsum.photos/seed/car008_3/800/600"
+    ],
+    "tags": ["3 Owners", "Minor Accident"],
+    "details": {
+      "mileage": 110000,
+      "mpgCity": 27,
+      "fuel": "gasoline",
+      "owners": 3,
+      "accidents": 1,
+      "trim": "LS",
+      "notes": "Budget friendly option."
+    }
+  },
+  {
+    "id": "car_009",
+    "title": "2019 Nissan Rogue",
+    "badge": "Old",
+    "price": 13900,
+    "currency": "USD",
+    "marketShare": 1.4,
+    "photos": [
+      "https://picsum.photos/seed/car009_1/800/600",
+      "https://picsum.photos/seed/car009_2/800/600",
+      "https://picsum.photos/seed/car009_3/800/600"
+    ],
+    "tags": ["2 Owners", "No Accidents"],
+    "details": {
+      "mileage": 65000,
+      "mpgCity": 26,
+      "fuel": "gasoline",
+      "owners": 2,
+      "accidents": 0,
+      "trim": "SV",
+      "notes": "Popular compact SUV."
+    }
+  },
+  {
+    "id": "car_010",
+    "title": "2023 Kia Sportage",
+    "badge": "New",
+    "price": 24800,
+    "currency": "USD",
+    "marketShare": 2.6,
+    "photos": [
+      "https://picsum.photos/seed/car010_1/800/600",
+      "https://picsum.photos/seed/car010_2/800/600",
+      "https://picsum.photos/seed/car010_3/800/600"
+    ],
+    "tags": ["Single owner", "No Accidents", "Warranty"],
+    "details": {
+      "mileage": 8000,
+      "mpgCity": 23,
+      "fuel": "gasoline",
+      "owners": 1,
+      "accidents": 0,
+      "trim": "LX",
+      "notes": "New model with warranty."
+    }
+  },
+  {
+    "id": "car_011",
+    "title": "2015 Volkswagen Jetta",
+    "badge": "Old",
+    "price": 6500,
+    "currency": "USD",
+    "marketShare": 0.6,
+    "photos": [
+      "https://picsum.photos/seed/car011_1/800/600",
+      "https://picsum.photos/seed/car011_2/800/600",
+      "https://picsum.photos/seed/car011_3/800/600"
+    ],
+    "tags": ["4 Owners", "Maintenance needed"],
+    "details": {
+      "mileage": 120000,
+      "mpgCity": 29,
+      "fuel": "gasoline",
+      "owners": 4,
+      "accidents": 0,
+      "trim": "S",
+      "notes": "Higher mileage, priced to sell."
+    }
+  },
+  {
+    "id": "car_012",
+    "title": "2021 Mazda CX-5",
+    "badge": "New",
+    "price": 23400,
+    "currency": "USD",
+    "marketShare": 1.8,
+    "photos": [
+      "https://picsum.photos/seed/car012_1/800/600",
+      "https://picsum.photos/seed/car012_2/800/600",
+      "https://picsum.photos/seed/car012_3/800/600"
+    ],
+    "tags": ["Single owner", "No Accidents", "Premium trim"],
+    "details": {
+      "mileage": 35000,
+      "mpgCity": 26,
+      "fuel": "gasoline",
+      "owners": 1,
+      "accidents": 0,
+      "trim": "Grand Touring",
+      "notes": "Comfort-oriented crossover."
+    }
+  },
+  {
+    "id": "car_013",
+    "title": "2018 Toyota Corolla",
+    "badge": "Old",
+    "price": 11000,
+    "currency": "USD",
+    "marketShare": 1.6,
+    "photos": [
+      "https://picsum.photos/seed/car013_1/800/600",
+      "https://picsum.photos/seed/car013_2/800/600",
+      "https://picsum.photos/seed/car013_3/800/600"
+    ],
+    "tags": ["2 Owners", "No Accidents"],
+    "details": {
+      "mileage": 45000,
+      "mpgCity": 32,
+      "fuel": "gasoline",
+      "owners": 2,
+      "accidents": 0,
+      "trim": "LE",
+      "notes": "Reliable and fuel-efficient."
+    }
+  },
+  {
+    "id": "car_014",
+    "title": "2019 Mercedes C-Class",
+    "badge": "Old",
+    "price": 25900,
+    "currency": "USD",
+    "marketShare": 1.1,
+    "photos": [
+      "https://picsum.photos/seed/car014_1/800/600",
+      "https://picsum.photos/seed/car014_2/800/600",
+      "https://picsum.photos/seed/car014_3/800/600"
+    ],
+    "tags": ["1 Owner", "Luxury trim"],
+    "details": {
+      "mileage": 23000,
+      "mpgCity": 20,
+      "fuel": "gasoline",
+      "owners": 1,
+      "accidents": 0,
+      "trim": "C300",
+      "notes": "Luxury features and premium interior."
+    }
+  },
+  {
+    "id": "car_015",
+    "title": "2020 Audi A4",
+    "badge": "New",
+    "price": 27900,
+    "currency": "USD",
+    "marketShare": 1.3,
+    "photos": [
+      "https://picsum.photos/seed/car015_1/800/600",
+      "https://picsum.photos/seed/car015_2/800/600",
+      "https://picsum.photos/seed/car015_3/800/600"
+    ],
+    "tags": ["Single owner", "No Accidents", "Certified"],
+    "details": {
+      "mileage": 20000,
+      "mpgCity": 24,
+      "fuel": "gasoline",
+      "owners": 1,
+      "accidents": 0,
+      "trim": "Premium Plus",
+      "notes": "Certified pre-owned example."
+    }
+  },
+  {
+    "id": "car_016",
+    "title": "2014 Honda Civic",
+    "badge": "Old",
+    "price": 5400,
+    "currency": "USD",
+    "marketShare": 0.8,
+    "photos": [
+      "https://picsum.photos/seed/car016_1/800/600",
+      "https://picsum.photos/seed/car016_2/800/600",
+      "https://picsum.photos/seed/car016_3/800/600"
+    ],
+    "tags": ["Multiple owners", "Higher mileage"],
+    "details": {
+      "mileage": 140000,
+      "mpgCity": 31,
+      "fuel": "gasoline",
+      "owners": 3,
+      "accidents": 0,
+      "trim": "LX",
+      "notes": "Economical choice for commuters."
+    }
+  },
+  {
+    "id": "car_017",
+    "title": "2022 Ford F-150",
+    "badge": "New",
+    "price": 35900,
+    "currency": "USD",
+    "marketShare": 3.0,
+    "photos": [
+      "https://picsum.photos/seed/car017_1/800/600",
+      "https://picsum.photos/seed/car017_2/800/600",
+      "https://picsum.photos/seed/car017_3/800/600"
+    ],
+    "tags": ["Single owner", "No Accidents", "Truck"],
+    "details": {
+      "mileage": 25000,
+      "mpgCity": 18,
+      "fuel": "gasoline",
+      "owners": 1,
+      "accidents": 0,
+      "trim": "XLT",
+      "notes": "Popular full-size pickup."
+    }
+  },
+  {
+    "id": "car_018",
+    "title": "2017 Lexus RX",
+    "badge": "Old",
+    "price": 19900,
+    "currency": "USD",
+    "marketShare": 1.5,
+    "photos": [
+      "https://picsum.photos/seed/car018_1/800/600",
+      "https://picsum.photos/seed/car018_2/800/600",
+      "https://picsum.photos/seed/car018_3/800/600"
+    ],
+    "tags": ["2 Owners", "Well maintained"],
+    "details": {
+      "mileage": 75000,
+      "mpgCity": 20,
+      "fuel": "gasoline",
+      "owners": 2,
+      "accidents": 0,
+      "trim": "350",
+      "notes": "Comfortable luxury SUV."
+    }
+  },
+  {
+    "id": "car_019",
+    "title": "2019 Hyundai Kona",
+    "badge": "New",
+    "price": 16900,
+    "currency": "USD",
+    "marketShare": 1.2,
+    "photos": [
+      "https://picsum.photos/seed/car019_1/800/600",
+      "https://picsum.photos/seed/car019_2/800/600",
+      "https://picsum.photos/seed/car019_3/800/600"
+    ],
+    "tags": ["1 Owner", "No Accidents", "Compact SUV"],
+    "details": {
+      "mileage": 32000,
+      "mpgCity": 27,
+      "fuel": "gasoline",
+      "owners": 1,
+      "accidents": 0,
+      "trim": "SEL",
+      "notes": "Popular urban crossover."
+    }
+  },
+  {
+    "id": "car_020",
+    "title": "2016 Jeep Wrangler",
+    "badge": "Old",
+    "price": 19900,
+    "currency": "USD",
+    "marketShare": 0.9,
+    "photos": [
+      "https://picsum.photos/seed/car020_1/800/600",
+      "https://picsum.photos/seed/car020_2/800/600",
+      "https://picsum.photos/seed/car020_3/800/600"
+    ],
+    "tags": ["3 Owners", "Off-road package"],
+    "details": {
+      "mileage": 95000,
+      "mpgCity": 17,
+      "fuel": "gasoline",
+      "owners": 3,
+      "accidents": 0,
+      "trim": "Sport",
+      "notes": "Good for off-road use."
+    }
+  }
+]
